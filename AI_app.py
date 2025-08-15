@@ -27,7 +27,7 @@ with form:
 col1, col2 = st.columns(2)
 
 
-st.write("\n\n\nData Science and AI Training 2024")
+st.write("\n\n\nData Science and AI Training 2025")
 st.write("KARUME INSITUTE OF SCIENCE AND TECHNOLOGY")
 st.write("Programed by AHMAD HAJI and ALI MAKAME")
 st.image("kist logo.jpg", width = 300)
